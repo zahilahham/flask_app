@@ -1,2 +1,4 @@
 requests
 pdfkit
+flask
+flask-sqlalchemy
